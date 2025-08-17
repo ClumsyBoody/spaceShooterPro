@@ -34,7 +34,6 @@ Player.Move() → Shoot() → CollectPowerUps() → AvoidEnemies() → EarnScore
 
 ---
 
-## 🛠️ Technical Specifications
 
 <div align="center">
 
