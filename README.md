@@ -29,18 +29,6 @@
 Player.Move() → Shoot() → CollectPowerUps() → AvoidEnemies() → EarnScore()
 ```
 
----
-
-## 🖥️ Screenshots & Media
-
-<div align="center">
-
-### 🎬 Gameplay Preview
-*[Add gameplay GIF or video here]*
-
-| Main Menu | In-Game Action | Power-Ups |
-|-----------|----------------|-----------|
-| ![Menu](screenshot1.png) | ![Gameplay](screenshot2.png) | ![PowerUps](screenshot3.png) |
 
 </div>
 
