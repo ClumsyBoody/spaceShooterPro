@@ -17,8 +17,7 @@
 ## 🎮 Game Overview
 
 ### 🌟 Core Features
-- **🎯 Classic Arcade Action** - Fast-paced shooting mechanics with pixel-perfect controls
-- **🛸 Dynamic Enemy Waves** - Face increasingly challenging spacecraft formations  
+- **🎯 Classic Arcade Action** - Fast-paced shooting mechanics with pixel-perfect controls 
 - **⚡ Power-Up System** - Collect upgrades to enhance your firepower and abilities
 - **🏆 High Score Challenge** - Compete for the ultimate leaderboard position
 - **🎨 Authentic Retro Style** - Pixel art graphics with nostalgic sound design
